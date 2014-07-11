@@ -1,2 +1,1 @@
-web: node proyecto_servidor.js
-web: node prueba.js
+web: node primero.js
