@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Proyecto curso javascript cliente-servidor</title>
+		
+        <script src="http://code.jquery.com/jquery-latest.min.js "></script>
+        <link rel="stylesheet" href="proyecto.css" />
+		<!--<script src="proyecto.js"></script>-->
+
+	<head>
+	
+	<body>
+
+        <div id="Citas" class="panel">
+            <h3>Citas</h3>
+            <p id="CargandoCitas" class="cargando">Cargando citas...</p>
+            <table id="MisCitas" class="tabla">
+            </table>
+            <button id="CitaNueva" class="boton" onclick="creaCita()">Nueva cita</button>
+        </div>
+
+        <div id="MiCita" class="panel">
+            <h3 id="MiCitaTitulo"></h3>
+    
+            <p>
+            <label for="MiCitaPacientes">Paciente</label>
+            <select id="MiCitaPacientes"></select>
+            </p>
+    
+            <p>
+                <label for="MiCitaFecha">Dia</label>
+                <select id="MiCitaFecha"></select>
+            </p>
+    
+            <p>
+                <label for="MiCitaHora">Hora</label>
+                <select id="MiCitaHora"></select>
+            </p>
+    
+            <button class="boton">Aceptar</button>
+            <button onclick="ocultaCita()" class="boton">Cancelar</button>
+        </div>
+
+	</body>
+	
+</html>
