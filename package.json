@@ -2,7 +2,7 @@
   "name": "cursojs-proyecto",
   "version": "0.0.0",
   "description": "Proyecto curso javascript cliente-servidor",
-  "main": "proyecto_servidor.js",
+  "main": "proyecto.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
