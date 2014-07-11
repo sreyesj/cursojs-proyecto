@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sreyesj/curso_js.git"
+    "url": "https://github.com/sreyesj/cursojs-proyecto.git"
   },
   "keywords": [
     "javascript",
@@ -19,9 +19,9 @@
   "author": "Santiago Reyes Jiménez",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/sreyesj/curso_js/issues"
+    "url": "https://github.com/sreyesj/cursojs-proyecto/issues"
   },
-  "homepage": "https://github.com/sreyesj/curso_js",
+  "homepage": "https://github.com/sreyesj/cursojs-proyecto",
   "dependencies": {
     "logfmt": "~1.1.2",
     "express": "~4.5.1"
