@@ -378,6 +378,10 @@ function leeCitas() {
 /******************/
 
 app.listen(8080);
+<<<<<<< HEAD
 console.log('Ejecutando servidor en http://localhost:3738/');
+=======
+console.log('Ejecutando servidor en http://localhost:8080/');
+>>>>>>> FETCH_HEAD
 
 
