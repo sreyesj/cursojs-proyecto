@@ -1,5 +1,5 @@
 {
-  "name": "proyecto",
+  "name": "cursojs-proyecto",
   "version": "0.0.0",
   "description": "Proyecto curso javascript cliente-servidor",
   "main": "proyecto_servidor.js",
@@ -11,7 +11,6 @@
     "url": "https://github.com/sreyesj/curso_js.git"
   },
   "keywords": [
-    "curso",
     "javascript",
     "cliente",
     "servidor",
