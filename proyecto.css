@@ -1,4 +1,4 @@
-﻿body {
+body {
     font-family:Calibri,Arial;
     font-size: small;
 }
@@ -15,14 +15,14 @@
     -moz-border-radius: 10px;
     border-radius: 10px;
 }
-#Citas {
+#Citas, #Pacientes {
     background:#ddddff;
 
     min-height:100px;
     min-width:200px;
 }
 
-#MiCita {
+#MiCita, #MiPaciente {
     display: none;
 
     background:#ddffdd;
@@ -57,11 +57,11 @@ h3 {
     margin: 10px 0;
 }
 
-#MisCitas {
+#MisCitas, #MisPacientes {
     display:none;
 }
 
-#CargandoCitas {
+#CargandoCitas, #CargandoPacientes {
     color: green;
     text-align:center;
 }
@@ -105,7 +105,7 @@ select {
     border-radius: 3px;
 }
 
-#CitaNueva {
+#CitaNueva, #PacienteNuevo {
     font-weight: bold;
     width:40%;
     margin:30px 30% 10px 30%;
